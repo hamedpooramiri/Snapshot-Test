@@ -4,7 +4,9 @@ Usage:
 use this extension for snapshot testing for your view layout 
 
   1- create a folder named 'snapshots' adjacent to your swift test file, your snapshots will be saved in that folder
+  
   2- use assert/record functions to record a snapshot or assert 
+  
   3- add snapshots file to Xcode and git repository
   
 
